@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "siggers-1HFq.aternos.me",
+    "ip": "",
     "port": 38896,
     "version": "1.12.1",
     "try-creative": false
